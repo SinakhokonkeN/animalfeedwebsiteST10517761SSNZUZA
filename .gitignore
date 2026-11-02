@@ -1,0 +1,8 @@
+node_modules/
+var/
+.env
+.env.*
+.openapi/
+.openai/
+*.log
+__pycache__/

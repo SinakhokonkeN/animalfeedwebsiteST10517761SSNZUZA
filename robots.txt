@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /var/
+Disallow: /docs/
+Disallow: /tests/

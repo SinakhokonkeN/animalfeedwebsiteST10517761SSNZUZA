@@ -1,0 +1,8 @@
+{
+  "name":"amashazi-animal-feed",
+  "version":"2.0.0",
+  "private":true,
+  "description":"Amashazi Animal Feed Suppliers — local website and request server",
+  "scripts":{"dev":"node server.mjs","start":"node server.mjs","test":"node --test tests/*.test.mjs"},
+  "engines":{"node":">=22"}
+}
